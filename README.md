@@ -1,3 +1,4 @@
 Olá a todos
 Meu nome é Aline
-Eu sou aluno da 1° série A, no Colégio Estadual Alvino Schelbauer
+Eu sou aluna da 1° série A, do Colégio Estadual Alvino Schelbauer
+Sejam bem vindos 
